@@ -1,0 +1,714 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New proposals for printing by subscription, Cambden's Britannia, English newly translated, with large additions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32744</idno>
+            <idno type="STC">Wing C373</idno>
+            <idno type="STC">ESTC R3261</idno>
+            <idno type="EEBO-CITATION">12244799</idno>
+            <idno type="OCLC">ocm 12244799</idno>
+            <idno type="VID">56905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 623:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New proposals for printing by subscription, Cambden's Britannia, English newly translated, with large additions.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: April the XXth, 1693.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Camden, William, 1551-1623. --  Britannia. --  English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56905:1" rendition="simple:additions"/>
+            <head>
+               <hi>APRIL</hi> the xxth. 1693. NEW PROPOSALS FOR Printing by Subſcription, <hi>Cambden's Britannia, Engliſh.</hi>
+            </head>
+            <head type="sub">Newly Tranſlated, with Large ADDITIONS.</head>
+            <p>
+               <hi>CAMBDEN</hi>'s <hi>BRITANNIA</hi> in Engliſh being very Scarce and Dear, the Price of a Fair one being at preſent no leſs then Three Pound, tho' the Edition be but a very bad one, and the Tranſlation very ill; divers Gentle<g ref="char:EOLhyphen"/>men have long deſired the Re-printing of it in <hi>Engliſh,</hi> and to the doing thereof great numbers have already Contributed by Subſcriptions: It is thought fit for the general Advantage, that theſe Propoſals for Printing the ſaid Book by Sub<g ref="char:EOLhyphen"/>ſcription be made publick.</p>
+            <p>The Reputation and Worth of the Author and Book is ſo univerſally known that nothing need be ſaid here to Recommend it, except the Account of the Me<g ref="char:EOLhyphen"/>thod to be uſed in Printing this Edition.</p>
+            <p>Which ſhall be Printed in a fair Character, and on very good Paper, according to this Specimen.</p>
+            <p>The whole Book new Tranſlated from the Original, which ſeveral Gentlemen of great Learning and Skill in the Antiquities of <hi>ENGLAND</hi> have under<g ref="char:EOLhyphen"/>taken to do.</p>
+            <p>In the former Tranſlation made by Doctor <hi>Philemon Holland,</hi> many Additions of the Tranſlator, were by a very unwarantable Liberty inſerted into the Text, which are here put as Notes only at the end of the Page.</p>
+            <div type="part">
+               <head>The Additions will be theſe,</head>
+               <p>A new Account of Mr. <hi>Cambden</hi>'s Life and Works ſhall be given at large, with Additions and Amendments out of his own Papers.</p>
+               <p>A Map of <hi>England</hi> as in the times of the <hi>Romans</hi> will be Printed according to <hi>Antoninus</hi>'s Itinerary, with the Names and Situation of the <hi>Roman</hi> Towns, Co<g ref="char:EOLhyphen"/>lonies, and Ways.</p>
+               <p>A Corrected Map of <hi>England</hi> as in the time of the <hi>Saxons</hi> will be Printed in like manner.</p>
+               <p>A general Map of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> as alſo a particular Map of each County, by Mr. <hi>Robert Morden,</hi> according to the neweſt Surveys that have been made, together with all the Roads exactly marked out, and all the
+<pb facs="tcp:56905:2"/>Places mentioned by <hi>Cambden,</hi> inſerted, tho' many of them have by time been quite deſtroyed, and the Degrees of Longitude and Latitude Marked on the Sides. Nothing ſhall be Printed on the Back of the Maps.</p>
+               <p>All the Diſcoveries that have been made in ſeveral Counties ſince Mr. <hi>Camb<g ref="char:EOLhyphen"/>den</hi>'s Death, in the particular Hiſtories of well nigh half the Counties of <hi>England,</hi> and in ſeveral Manuſcript and Hiſtories, ſhall be added in ſhort as Notes, or ſet forth in the Diſſertation following the whole Work; together with an Account of all thoſe Authors that have Illuſtrated <hi>England</hi> in General, or any one County in Particular.</p>
+               <p>An Account of the Univerſities, Colledges, Schools, Coins, Buildings of <hi>England,</hi> and the Seats of the preſent Nobility, ſhall be added at the end of the Work.</p>
+               <p>The Manuſcript Notes and Corrections of Mr. <hi>John Selden</hi> will be added to the Work, as likewiſe ſeveral other Corrections of Eminent Perſons upon the whole Work, or on part thereof, will be added in the Margin or at the bottom of the Page, and not intermixt with the Text.</p>
+               <p>To which purpoſe, all Gentlemen that have made any ſuch Corrections or Remarks are deſired to Tranſmit them to the Undertakers who will faithfully Inſert them.</p>
+               <p>The large Diſcourſe of Mr. <hi>Cambden</hi> concerning the Government of the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> and <hi>Saxons</hi> in <hi>England,</hi> concerning the Degrees in <hi>England,</hi> and the Courts of <hi>Britain,</hi> will by large Marginal Notes be much Corrected and Improved, and ſome Original Diſcourſes on that Subject will be added by an Eminent Hand.</p>
+               <p>Divers large INDEX'S and GLOSSARIES will be added at the end of the Work.</p>
+            </div>
+            <div type="part">
+               <p>☞ THE Maps mentioned in the former Propoſals (though they were Deſign'd according to the new<g ref="char:EOLhyphen"/>eſt Surveys very Correct, and contained all the Towns that were mentioned in <hi>Cambden</hi>'s yet) were not thought Large and Comprehenſive enough, by ſome Judicious and Ingenious Gentlemen that aſſiſt in the Work, Who think it Proper and Neceſſary to have the Maps of every County full as Large as this Sheet will admit, and to Comprehend every Town, Village, <hi>&amp;c.</hi> throughout.</p>
+               <p>The Undertakers therefore to Comply with theſe and many other Gentlemens Deſires, have Reſolved to have the Maps ſo done; with all the Roads, and the Degrees of Longitude and Latitude, and other conſiderable Additions and Corrections never done before. Though the Expence will be at leaſt 500 <hi>l.</hi> Extraordinary.</p>
+               <p>Beſides which, many Additions will be made to the Book more than were mentioned; particularly a curious Collection of all the Publick Coins of <hi>England,</hi> ſupplying what are wanting in Mr. <hi>Cambden</hi>'s of the <hi>Britains</hi> and <hi>Romans,</hi> and adding thoſe of the <hi>Saxons, Danes,</hi> &amp;c. which will be done by an Eminent Hand. And all the Coins fairly Engraved on Copper.</p>
+               <p>And for theſe Reaſons we are obliged to raiſe the Price to Thirty Two Shillings, which cannot be eſteem<g ref="char:EOLhyphen"/>ed Dear, conſidering the great Charge extraordinary, in Graving the Maps ſo Large, and the exceſſive Price of Paper at this time, the Maps alone being worth the Money.</p>
+            </div>
+            <div type="part">
+               <head>PROPOSALS.</head>
+               <p>THE Price of this Book to be but Thirty Two Shillings in Sheets to Subſcribers, whereof twelve Shillings to be paid in Hand, and the reſt on Delivery.</p>
+               <p>And for the Large Paper Fifty Shillings; Twenty Shillings whereof paid in Hand.</p>
+               <p>And for Encouragement to Subſcribers, any Gentleman that ſhall Subſcribe for ſix Books ſhall have a ſeventh Gratis, which reduces the Price to Twenty Seven Shillings and Six Pence <hi>per</hi> Book. No advantage can be allowed in the Large Paper.</p>
+               <p>After the firſt Day of Trinity Term the Price will be Thirty Five Shillings.</p>
+               <p>It ſhall not be Sold to any but Subſcribers under Forty Shillings in Sheets.</p>
+               <p>The Book ſhall be Finiſhed and be ready to be Delivered at <hi>Hillary</hi> Term next, without fail.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:56905:2"/>
+            <head>BRITAIN.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>RITAIN,</hi> by the <hi>Latins</hi> called <hi>Britannia,</hi> and <hi>Albion,</hi> by the <hi>Greeks</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the moſt Famous Iſland of the whole World, is di<g ref="char:EOLhyphen"/>vided from the Continent of <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> by the Ocean. It lies over againſt <hi>Germany</hi> and <hi>France</hi> in a<note n="*" place="margin">Figura Triquetra. Caeſ. Com. <hi>l.</hi> 5.</note> 
+               <hi>Triangular Form,</hi> having it's Three Promontories ſhooting out three ſeveral ways, <hi>viz. Belerium</hi> [the Lands End] toward the Weſt; <hi>Cantium</hi> [the Foreland in <hi>Kent</hi>] toward the Eaſt; <hi>Tarviſium</hi> or <hi>Orcas</hi> [the Point of <hi>Cathneſs</hi> in <hi>Scotland</hi>] toward the North. On the Weſt, between it and <hi>Ireland,</hi> the <hi>Vergivian</hi> [or <hi>Iriſh</hi>] Sea breaks in; On the North it is bea<g ref="char:EOLhyphen"/>ten upon by the vaſt and wide Northern Ocean: On the Eaſt, where it faceth <hi>Germany,</hi> it is waſh'd by the <hi>German</hi> Ocean; On the South over againſt <hi>France</hi> by the <hi>Britiſh</hi> Channel. Thus divided by a convenient Diſtance from theſe Neighbouring Nations, and made fit by its open Harbors for the Traffick of the whole World, it ſeems to have ad<g ref="char:EOLhyphen"/>vanced it ſelf on all ſide into the Sea, as it were for the general Benefit of Mankind. For between <hi>Kent</hi> and <hi>Calais</hi> in <hi>France</hi> it runs ſo far out into the Sea,<note place="margin">See in <hi>Kent.</hi>
+               </note> and the Channel is ſo ſtraight, that<note n="(a)" place="bottom">That <hi>Britain</hi> was ever by an Iſthmus joyn'd Eaſtward to the Continent of <hi>France,</hi> ſeems an Improbable Opinion; However, you may ſee (beſides Authors cited by Mr. <hi>Cambden</hi>) <hi>White</hi>'s Hiſt. <hi>Brit. L.</hi> 11. <hi>Not.</hi> 11. <hi>Burton</hi>'s Comment. on <hi>Antonin. p.</hi> 18. 19. <hi>Twin. de Rebus Al<g ref="char:EOLhyphen"/>bion &amp; Britan. Sammes, Britan. l.</hi> 1. <hi>c.</hi> 4. <hi>Verſtegan, l.</hi> 1. <hi>c.</hi> 4. Some For<g ref="char:EOLhyphen"/>reigners alſo, <hi>Dominicus, Marius Niger, Antonius Volſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us; Vivianus,</hi> and <hi>Da Bartas</hi> have favour'd this groundleſs Tradition.</note> ſome are of opinion that a Breach was there made, and that the Sea hath work'd it ſelf thro' the Neck of Land, which before joyn'd the two Countries to each other; and to confirm it they bring <hi>Virgil</hi> in that Verſe,</p>
+            <q>
+               <p>Et penitus toto diviſos Orbe Britannos.</p>
+               <p>And <hi>Britans</hi> quite from all the World disjoyn'd.</p>
+            </q>
+            <p>Becauſe as <hi>Servius Honoratus</hi> obſerves, that <hi>Britain</hi> was anciently joyn'd to the Continent. And <hi>Clau<g ref="char:EOLhyphen"/>dian</hi> in Imitation of <hi>Virgil,</hi>
+            </p>
+            <q>
+               <p>—Noſtro diducta Britannia Mundo.</p>
+               <p>And <hi>Britain</hi> ſever'd from our World.</p>
+            </q>
+            <p>It is not at all unlikely that the outward Face and Faſhion of the Earth may by the <hi>Deluge</hi> and other Cauſes have been alter'd, that ſome Moun<g ref="char:EOLhyphen"/>tains may have been raiſed and heightned, and many High Places may have ſunk into Plains and Valleys; Lakes and Meers may have been dried up, and dry Places may have become Lakes and Meers, and ſome Iſlands may have been torn and broken off from the Continent. But whether it be true indeed, and whether there were any Iſlands before the Flood, I ſhall not here argue, nor of God's Works inconſiderately give my Opinion. All know that the Divine Providence hath diſpos'd different things to the ſame end: And indeed it hath always been allow'd, as well by Divines as Philoſophers, That Iſles ſcatter'd in the Sea do no leſs contri<g ref="char:EOLhyphen"/>bute to the Beauty of the whole World in general, than Lakes and Lofty Mountains diſperſed about the Continents.</p>
+            <p>
+               <hi>Livy</hi> and <hi>Fabius Ruſticus</hi> have made the Form of this [Iſland] to reſemble an<note n="*" place="margin">Scutulae Oblongae.</note> Oblong Platter, or<note n="†" place="margin">
+                  <hi>Bipenni.</hi> See Sir <hi>H. Savile</hi> upon this place in <hi>Tacitus.</hi>
+               </note> Two edg'd Ax; and ſuch certainly is its Shape towards the South, (as <hi>Tacitus</hi> obſerves) which yet hath been ill apply'd to the whole Iſland. For Northward that vaſt Tract of Land ſhooting for<g ref="char:EOLhyphen"/>ward to a Point, groweth narrow and ſharp like a Wedge. The Ancients thought it ſo great, and ſo very large in Circumference, that <hi>Caeſar,</hi>
+               <note place="margin">The Pane<g ref="char:EOLhyphen"/>gyrick ſpo<g ref="char:EOLhyphen"/>ken to <hi>Con<g ref="char:EOLhyphen"/>ſtantius,</hi> falſly Enti<g ref="char:EOLhyphen"/>tuled to <hi>Maximian.</hi>
+               </note> who firſt of all the <hi>Romans</hi> diſcover'd it, wrote that he had found out another World, ſuppoſing it ſo great, that it ſeem'd not to be ſurrounded with the Sea, but even to contain and encompaſs the Ocean. And <hi>Julius Solinus Polyhiſtor</hi> aſſerts, That for its large<g ref="char:EOLhyphen"/>neſs, it almoſt deſerv'd to be call'd another World. Nevertheleſs, our Age, by many and often Surveys, hath now well nigh found the true Dimenſions of the whole Iſle. For from <hi>Tarviſium</hi> [the Point of <hi>Cathneſs</hi>] unto <hi>Belerium</hi> [the Lands end] reckoning the windings and turnings of the Shores along the Weſt ſide, are computed about DCCCXII Miles. From thence along the Southern Coaſts to <hi>Cantium</hi> [the <hi>Kentiſh</hi> Foreland] CCCXX Miles. Hence Coaſting the <hi>German</hi> Ocean, with crooked Bays and Inlets for DCCIV Miles, it reacheth to <hi>Tarviſium</hi> [the Point of <hi>Cathneſs</hi>]: So that by this Computation the whole Iſland is in Circuit MDCCCXXXVI Miles. Which Mea<g ref="char:EOLhyphen"/>ſure, as it falls much ſhort of <hi>Pliny</hi>'s, ſo it is ſome<g ref="char:EOLhyphen"/>what leſs then <hi>Caeſars:</hi>
+               <note place="margin">Com. 5. Read <hi>Schimnius.</hi>
+               </note> 
+               <hi>Schitinius Chius</hi> is not worth my mentioning, who in <hi>Apollonius de Mirabilibus</hi> (having told us ſtrange Stories of Fruits grow<g ref="char:EOLhyphen"/>ing in <hi>Britain</hi> without Kernels, and Grapes with<g ref="char:EOLhyphen"/>out Stones) makes its Circuit CCCC <hi>Stadia</hi> [Furlongs] and no more. But <hi>Dionyſius Afer</hi> in his Deſcription of the World, hath given a much bet<g ref="char:EOLhyphen"/>ter Account of the <hi>Britiſh</hi> Iſlands, that is, <hi>Britain</hi> and <hi>Ireland.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Vaſt is the Compaſs of the <hi>Britiſh</hi> Coaſts;</l>
+                  <l>A like Extent no Rival Iſland boaſts.</l>
+               </lg>
+            </q>
+            <p>And with him <hi>Ariſtides</hi> and other <hi>Greek</hi> Wri<g ref="char:EOLhyphen"/>ters agree, who by way of Excellency have truly call'd <hi>Britain</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>the Great Iſland.</p>
+            <p>Now they that have more accurately compar'd the Spaces of the Heavens with the Tracts of Earth, have plac'd <hi>Britain</hi> under the VIIIth. Climate, and include it within the<note n="(b)" place="bottom">Later Diſcoveries have better Defined the Site of <hi>Britain,</hi> the Longitude of the <hi>Lands End</hi> being but XI Degrees from <hi>Teneriff,</hi> and <hi>Cantium</hi> or the <hi>Foreland</hi> but XVIII and an half. The Latitude of the <hi>Lizard</hi> L Degrees, and of <hi>Cathneſs</hi> ſcarce LVIII and an half. Whence the longeſt Tropical Day is from XVI Hours X Min. to XVIII Hours II Min. that is from the XVIIIth. to the XXVth. Parallel.</note> XVIIIth. &amp; XXVIth. Pa<g ref="char:EOLhyphen"/>rallels, computing the longeſt Day at XVIII E<g ref="char:EOLhyphen"/>quinoctial Hours and an half. <hi>Belerium</hi> [the Lands end] according to the Spherical Figure of the Earth, they place<note n="(c)" place="bottom">For XVI, Read XIII.</note> XVI Degrees and L Scruples from the fartheſt Point Weſtward; <hi>Cantium</hi> [the <hi>Kentiſh</hi> Foreland] in XXI Degrees of Longitude. As for the Latitude they Meaſure in the Southern Parts L Degrees X Scruples; at <hi>Tarviſium [Cathneſs]</hi> LIX Degrees, XL Scruples. So that according to <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="list_of_booksellers">
+            <pb facs="tcp:56905:3" rendition="simple:additions"/>
+            <head>THE SUBSCRIBERS ARE DESIRED To make their First Payment with what ſpeed they can to the <g ref="char:V">Ʋ</g>ndertakers, <hi>Abel Swall</hi> and <hi>Timothy Childe,</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> in St. <hi>Paul</hi>'s Church-yard: And, <hi>Awnſham</hi> and <hi>Iohn Churchill,</hi> at the <hi>Black Swan</hi> in <hi>Pater-Noſter-Row:</hi> Or, to any of theſe Bookſellers following, who will give Receipts and Deliver the Books according to the PROPOSALS, <hi>VIZ.</hi>
+            </head>
+            <list>
+               <head>In St. <hi>Paul</hi>'s Church-Yard.</head>
+               <item>
+                  <hi>MR.</hi> Brewſter.</item>
+               <item>
+                  <hi>Mr.</hi> Mortlock.</item>
+               <item>
+                  <hi>Mr.</hi> Chiſwell.</item>
+               <item>
+                  <hi>Mr.</hi> Kettleby.</item>
+               <item>
+                  <hi>Mr.</hi> Ranew.</item>
+               <item>
+                  <hi>Mr.</hi> Bonwick.</item>
+               <item>
+                  <hi>Mr.</hi> Smith.</item>
+               <item>
+                  <hi>Mr.</hi> Taylor.</item>
+               <item>
+                  <hi>Mr.</hi> Meredith.</item>
+               <item>
+                  <hi>Mr.</hi> Broom.</item>
+               <item>
+                  <hi>Mr.</hi> Knapton.</item>
+               <item>
+                  <hi>Mr.</hi> Everingham.</item>
+               <item>
+                  <hi>Mr.</hi> Wyat.</item>
+               <item>
+                  <hi>Mr.</hi> Cumberland.</item>
+               <item>
+                  <hi>Mr.</hi> Walford <hi>in</hi> Ave-Mary-Lane.</item>
+               <item>
+                  <hi>Mr.</hi> Clavell.</item>
+               <item>
+                  <hi>Mr.</hi> Miller.</item>
+               <item>
+                  <hi>Mr.</hi> Robinſon.</item>
+               <item>
+                  <hi>Mr.</hi> Phillips.</item>
+               <item>
+                  <hi>Mr.</hi> Evetts.</item>
+               <item>
+                  <hi>Mr.</hi> Adamſon.</item>
+               <item>
+                  <hi>Mr.</hi> Newborough.</item>
+               <item>
+                  <hi>Mr.</hi> Bennet.</item>
+               <item>
+                  <hi>Mr.</hi> Wild.</item>
+               <item>
+                  <hi>Mr.</hi> Morey.</item>
+               <item>
+                  <hi>Mr.</hi> Clement.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>In</hi> CORNHILL.</head>
+               <item>
+                  <hi>Mr.</hi> Peter Parker.</item>
+               <item>
+                  <hi>Mr.</hi> Sam. Crouch.</item>
+               <item>
+                  <hi>Mr.</hi> Hindmarſh.</item>
+               <item>
+                  <hi>Mr.</hi> Eddowes.</item>
+               <item>
+                  <hi>Mr.</hi> Salisbury.</item>
+               <item>
+                  <hi>Mr.</hi> Harriſon.</item>
+               <item>
+                  <hi>Mr.</hi> Rich. Parker.</item>
+               <item>
+                  <hi>Mr.</hi> Guy <hi>in</hi> Lumbard-ſtreet.</item>
+               <item>
+                  <hi>Mr.</hi> Morden, <hi>at the</hi> Atlas.</item>
+               <item>
+                  <hi>Mr.</hi> Howkins <hi>in</hi> George-yard.</item>
+               <item>
+                  <hi>Mr.</hi> Aylmer.</item>
+               <item>
+                  <hi>Mr.</hi> Horn.</item>
+               <item>
+                  <hi>Mrs.</hi> Billingſley.</item>
+               <item>
+                  <hi>Mr.</hi> Southby.</item>
+               <item>
+                  <hi>Mr.</hi> Manſhip.</item>
+               <item>
+                  <hi>Mr.</hi> Pool.</item>
+               <item>
+                  <hi>Mr.</hi> Speed.</item>
+            </list>
+            <list>
+               <head>In the <hi>POULTREY.</hi>
+               </head>
+               <item>
+                  <hi>Mr.</hi> Cockeril.</item>
+               <item>
+                  <hi>Mr.</hi> Crowch.</item>
+               <item>
+                  <hi>Mr.</hi> Dunton.</item>
+               <item>
+                  <hi>Mr.</hi> Parkhurst <hi>near</hi> Mercers <hi>Chappel.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Fabian <hi>in</hi> Cheap-ſide.</item>
+               <item>
+                  <hi>Mr.</hi> Newman.</item>
+               <item>
+                  <hi>Mr.</hi> Lawrence.</item>
+               <item>
+                  <hi>Mr.</hi> Harris.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>In</hi> FLEETSTREET.</head>
+               <item>
+                  <hi>Mr.</hi> Baſſet.</item>
+               <item>
+                  <hi>Mr.</hi> Dring.</item>
+               <item>
+                  <hi>Mr.</hi> Keeble</item>
+               <item>
+                  <hi>Mr.</hi> Rhodes.</item>
+               <item>
+                  <hi>Mr.</hi> Goodwin.</item>
+               <item>
+                  <hi>Mr.</hi> Salisbury.</item>
+               <item>
+                  <hi>Mr.</hi> Roper.</item>
+               <item>
+                  <hi>Mr.</hi> Southby.</item>
+               <item>
+                  <hi>Mr.</hi> Walthoe <hi>in the</hi> Temple.</item>
+               <item>
+                  <hi>Mr.</hi> Tonſon. <hi>in</hi> Chancery <hi>Lane.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Cleeve. <hi>in</hi> Chancery <hi>Lane.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Pawlett. <hi>in</hi> Chancery <hi>Lane.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Crook. <hi>without</hi> Temple-Bar.</item>
+               <item>
+                  <hi>Mr.</hi> Browne. <hi>without</hi> Temple-Bar.</item>
+               <item>
+                  <hi>Mr.</hi> Lowndes <hi>in the</hi> Strand.</item>
+               <item>
+                  <hi>Mr.</hi> Saunders <hi>in the</hi> New Exchange.</item>
+               <item>
+                  <hi>Mr.</hi> Bentley. <hi>in</hi> Covent Garden.</item>
+               <item>
+                  <hi>Mr.</hi> Briſcoe. <hi>in</hi> Covent Garden.</item>
+               <item>
+                  <hi>Mr.</hi> Wilkinſon.</item>
+               <item>
+                  <hi>Mr.</hi> Harper.</item>
+               <item>
+                  <hi>Mr.</hi> Rogers.</item>
+               <item>
+                  <hi>Mr.</hi> Freeman.</item>
+               <item>
+                  <hi>Mr.</hi> Wotton.</item>
+               <item>
+                  <hi>Mr.</hi> Newton.</item>
+               <item>
+                  <hi>Mr.</hi> Buck.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>In</hi> Weſtminſter HALL.</head>
+               <item>
+                  <hi>Mr.</hi> Gilliflower.</item>
+               <item>
+                  <hi>Mr.</hi> Fox.</item>
+               <item>
+                  <hi>Mr.</hi> Partridge. <hi>at</hi> Charing Croſs.</item>
+               <item>
+                  <hi>Mr.</hi> Chapman. <hi>at</hi> Charing Croſs.</item>
+               <item>
+                  <hi>Mr.</hi> Nott. <hi>in the</hi> Pall-mall.</item>
+               <item>
+                  <hi>Mr.</hi> Holford. <hi>in the</hi> Pall-mall.</item>
+               <item>
+                  <hi>Mr.</hi> Harding <hi>in</hi> Newport <hi>Street.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Lovell <hi>in St.</hi> James<hi>'s Street.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Henſman.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>In</hi> HOLBOURN.</head>
+               <item>
+                  <hi>Mr.</hi> Stephen Bateman.</item>
+               <item>
+                  <hi>Mr.</hi> Batersby <hi>at</hi> Thavies <hi>Inn Gate.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Place.</item>
+               <item>
+                  <hi>Mr.</hi> Hargrave.</item>
+               <item>
+                  <hi>Mr.</hi> Hartley.</item>
+               <item>
+                  <hi>Mr.</hi> Heyrick. <hi>at</hi> Grays Inn.</item>
+               <item>
+                  <hi>Mr.</hi> Sare. <hi>at</hi> Grays Inn.</item>
+               <item>
+                  <hi>Mr.</hi> Harriſon. <hi>at</hi> Lincolns <hi>Inn.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Powell. <hi>at</hi> Lincolns <hi>Inn.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Raven. <hi>at</hi> Lincolns <hi>Inn.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Chriſtopher Bateman.</item>
+               <item>
+                  <hi>Mr.</hi> Atkinſon.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>In</hi> Little Britain.</head>
+               <item>
+                  <hi>Mr.</hi> Littlebury.</item>
+               <item>
+                  <hi>Mr.</hi> Bentley.</item>
+               <item>
+                  <hi>Mr.</hi> Sprint.</item>
+               <item>
+                  <hi>Mr.</hi> Sawbridge.</item>
+               <item>
+                  <hi>Mr.</hi> Shelmadine.</item>
+               <item>
+                  <hi>Mr.</hi> Conyers.</item>
+               <item>
+                  <hi>Mr.</hi> Benskin, <hi>in</hi> Lincoln<hi>'s</hi> Inn-Fields.</item>
+               <item>
+                  <hi>Mr.</hi> Shrewsbury. <hi>in</hi> Duck-Lane.</item>
+               <item>
+                  <hi>Mr.</hi> Thackary. <hi>in</hi> Duck-Lane.</item>
+               <item>
+                  <hi>Mr.</hi> Nowell. <hi>in</hi> Duck-Lane.</item>
+               <item>
+                  <hi>Mr.</hi> Yates. <hi>in</hi> Duck-Lane.</item>
+               <item>
+                  <hi>Mr.</hi> Hubbard. <hi>in</hi> Duck-Lane.</item>
+               <item>
+                  <hi>Mr.</hi> Fiſher. <hi>on</hi> Tower-Hill.</item>
+               <item>
+                  <hi>Mr.</hi> Mount. <hi>on</hi> Tower-Hill.</item>
+               <item>
+                  <hi>Mr.</hi> Tracy, <hi>on</hi> London <hi>Bridge.</hi>
+               </item>
+               <item>
+                  <hi>Mrs.</hi> Cooper.</item>
+               <item>
+                  <hi>Mr.</hi> Whitwood.</item>
+               <item>
+                  <hi>Mr.</hi> Huſſey.</item>
+               <item>
+                  <hi>Mr.</hi> Alport.</item>
+               <item>
+                  <hi>Mr.</hi> Newton.</item>
+            </list>
+            <list>
+               <head>Or to theſe Bookſellers in the Country, <hi>VIZ.</hi>
+               </head>
+               <item>
+                  <hi>Mr.</hi> Geo. Weſt <hi>in</hi> Oxford.</item>
+               <item>
+                  <hi>Mr.</hi> John Wilmot <hi>in</hi> Oxford.</item>
+               <item>
+                  <hi>Mr.</hi> John Croſley <hi>in</hi> Oxford.</item>
+               <item>
+                  <hi>Mr.</hi> Hen. Clements <hi>in</hi> Oxford.</item>
+               <item>
+                  <hi>Mr.</hi> John Howel <hi>in</hi> Oxford.</item>
+               <item>
+                  <hi>Mr.</hi> Anth. Piſley <hi>in</hi> Oxford.</item>
+               <item>
+                  <hi>Mr.</hi> Hen. Dickenſon <hi>in</hi> Cambridge.</item>
+               <item>
+                  <hi>Mr.</hi> Sam. Simpſon <hi>in</hi> Cambridge.</item>
+               <item>
+                  <hi>Mr.</hi> Edw. Hall <hi>in</hi> Cambridge.</item>
+               <item>
+                  <hi>Mr.</hi> Fran. Hicks <hi>in</hi> Cambridge.</item>
+               <item>
+                  <hi>Mr.</hi> Will. Dickenſon <hi>in</hi> Cambridge.</item>
+               <item>
+                  <hi>Mr.</hi> Yeo <hi>in</hi> Exeter.</item>
+               <item>
+                  <hi>Mrs.</hi> May <hi>in</hi> Exeter.</item>
+               <item>
+                  <hi>Mr.</hi> Hooker <hi>in</hi> Exeter.</item>
+               <item>
+                  <hi>Mr.</hi> Churchil, <hi>at</hi> Dorcheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Wall <hi>at</hi> Briſtol.</item>
+               <item>
+                  <hi>Mr.</hi> Gravet <hi>at</hi> Briſtol.</item>
+               <item>
+                  <hi>Mr.</hi> Minſhul <hi>at</hi> Cheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Hodgſon <hi>at</hi> Cheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Solden <hi>at</hi> Shrewsbury.</item>
+               <item>
+                  <hi>Mr.</hi> Rogers <hi>at</hi> Shrewsbury.</item>
+               <item>
+                  <hi>Mr.</hi> Hunt, <hi>in</hi> Hereford.</item>
+               <item>
+                  <hi>Mr.</hi> Robinſon, <hi>in</hi> Ludlow.</item>
+               <item>
+                  <hi>Mr.</hi> Johnſon, <hi>at</hi> Litchfield.</item>
+               <item>
+                  <hi>Mr.</hi> Palmer <hi>at</hi> Glouceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Harris <hi>at</hi> Glouceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Hurt, <hi>in</hi> Coventry.</item>
+               <item>
+                  <hi>Mr.</hi> Ward, <hi>in</hi> Leiceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Powel, <hi>at</hi> Southampton.</item>
+               <item>
+                  <hi>Mr.</hi> Warn, <hi>at</hi> Chippenham.</item>
+               <item>
+                  <hi>Mr.</hi> Unite, <hi>at</hi> Wolverhampton.</item>
+               <item>
+                  <hi>Mr.</hi> Barkſdale, <hi>in</hi> Cirenceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Hayman, <hi>at</hi> Dartmouth.</item>
+               <item>
+                  <hi>Mr.</hi> Logget, <hi>at</hi> Plymouth.</item>
+               <item>
+                  <hi>Mr.</hi> Cock, <hi>at</hi> Kendal.</item>
+               <item>
+                  <hi>Mr.</hi> Turner, <hi>at</hi> Rotherham.</item>
+               <item>
+                  <hi>Mr.</hi> Corney, <hi>at</hi> Penryth.</item>
+               <item>
+                  <hi>Mr.</hi> Eaton, <hi>at</hi> Leverpool.</item>
+               <item>
+                  <hi>Mr.</hi> Jones <hi>in</hi> Worceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Mountford <hi>in</hi> Worceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Butler <hi>in</hi> Worceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Bourn <hi>in</hi> Worceſter.</item>
+               <item>
+                  <hi>Mr.</hi> Hildyard <hi>in</hi> York.</item>
+               <item>
+                  <hi>Mr.</hi> Lucas <hi>in</hi> York.</item>
+               <item>
+                  <hi>Mr.</hi> Clark <hi>in</hi> York.</item>
+               <item>
+                  <hi>Mr.</hi> Manklin <hi>in</hi> York.</item>
+               <item>
+                  <hi>Mr.</hi> Warden, <hi>in</hi> Durham.</item>
+               <item>
+                  <hi>Mr.</hi> Walker, <hi>in</hi> Lincoln.</item>
+               <item>
+                  <hi>Mr.</hi> Sully <hi>in</hi> Nottingham.</item>
+               <item>
+                  <hi>Mr.</hi> Howes <hi>in</hi> Nottingham.</item>
+               <item>
+                  <hi>Mr.</hi> Green <hi>in</hi> Lancaſter.</item>
+               <item>
+                  <hi>Mr.</hi> Taylor <hi>in</hi> Lancaſter.</item>
+               <item>
+                  <hi>Mr.</hi> Burton, <hi>in</hi> Preſton.</item>
+               <item>
+                  <hi>Mr.</hi> Lambert, <hi>in</hi> Hull.</item>
+               <item>
+                  <hi>Mr.</hi> Randal <hi>in</hi> Newcaſtle.</item>
+               <item>
+                  <hi>Mrs.</hi> Button <hi>in</hi> Newcaſtle.</item>
+               <item>
+                  <hi>Mr.</hi> Bentley, <hi>in</hi> Hallifax.</item>
+               <item>
+                  <hi>Mr.</hi> Nisbet, <hi>in</hi> Darby.</item>
+               <item>
+                  <hi>Mr.</hi> Whitworth, <hi>in</hi> Leeds.</item>
+               <item>
+                  <hi>Mr.</hi> Whitworth <hi>in</hi> Mancheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Holland <hi>in</hi> Mancheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Giles <hi>in</hi> Norwich.</item>
+               <item>
+                  <hi>Mr.</hi> Roſe <hi>in</hi> Norwich.</item>
+               <item>
+                  <hi>Mr.</hi> Oliver <hi>in</hi> Norwich.</item>
+               <item>
+                  <hi>Mr.</hi> Chamberlain, <hi>at</hi> St. Edmunds-bury.</item>
+               <item>
+                  <hi>Mr.</hi> Tuthill, <hi>in</hi> Yarmouth.</item>
+               <item>
+                  <hi>Mr.</hi> Caldicut, <hi>at</hi> Stamford.</item>
+               <item>
+                  <hi>Mr.</hi> Fran. Blithe <hi>at</hi> Colcheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Hall <hi>at</hi> Colcheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Sawyer, <hi>at</hi> Ipſwich.</item>
+               <item>
+                  <hi>Mr.</hi> Burges, <hi>at</hi> Canterbury.</item>
+               <item>
+                  <hi>Mrs.</hi> Janeway, <hi>at</hi> Chicheſter.</item>
+               <item>
+                  <hi>Mr.</hi> Boucher, <hi>at</hi> Peterborough.</item>
+               <item>
+                  <hi>Mr.</hi> Fowler, <hi>at</hi> Northampton.</item>
+               <item>
+                  <hi>Mr.</hi> Bedingfield, <hi>at</hi> Lyn.</item>
+               <item>
+                  <hi>Mr.</hi> Smith, <hi>at</hi> Daventry.</item>
+               <item>
+                  <hi>Mr.</hi> Buckeridge, <hi>at</hi> Marlborough.</item>
+               <item>
+                  <hi>Mr.</hi> Smith, <hi>at</hi> Stratford <hi>upon</hi> Avon.</item>
+               <item>
+                  <hi>Mr.</hi> Pickering <hi>at</hi> Warrington.</item>
+               <item>
+                  <hi>Mr.</hi> Burton <hi>at</hi> Warrington.</item>
+               <item>
+                  <hi>Mr.</hi> Symonds, <hi>at</hi> Newbury.</item>
+               <item>
+                  <hi>Mr.</hi> Hewet, <hi>at</hi> Reading.</item>
+               <item>
+                  <hi>Mr.</hi> Symonds, <hi>in</hi> Sheffield.</item>
+               <item>
+                  <hi>Mr.</hi> Clark, <hi>at</hi> Wincheſter.</item>
+               <item>
+                  <hi>Mr.</hi> William Courtney, <hi>at</hi> Salisbury.</item>
+               <item>
+                  <hi>Mr.</hi> Maldon, <hi>at</hi> Bath.</item>
+               <item>
+                  <hi>Mr.</hi> Babb, <hi>at</hi> Taunton.</item>
+               <item>
+                  <hi>Mr.</hi> Keeblewhite, <hi>in the</hi> Iſle of Wight.</item>
+               <item>
+                  <hi>Mr.</hi> Rathbone, <hi>at</hi> Macclesfield.</item>
+               <item>
+                  <hi>Mr.</hi> Hammond, <hi>at</hi> Deviſes.</item>
+               <item>
+                  <hi>Mr.</hi> Tippen, <hi>in</hi> Congleton.</item>
+               <item>
+                  <hi>Mr.</hi> Thorp, <hi>at</hi> Banbury.</item>
+               <item>
+                  <hi>Mr.</hi> Ruſſel, <hi>at</hi> Bridgnorth.</item>
+               <item>
+                  <hi>Mr.</hi> Taylor, <hi>at</hi> Sturbridge.</item>
+               <item>
+                  <hi>Mr.</hi> Swinton, <hi>at</hi> Knutsford.</item>
+               <item>
+                  <hi>Mr.</hi> Hunt, <hi>at</hi> Barnſtable.</item>
+               <item>
+                  <hi>Mr.</hi> Talman, <hi>at</hi> Taveſtock.</item>
+               <item>
+                  <hi>Mr.</hi> Ratton, <hi>at</hi> Harborough.</item>
+               <item>
+                  <hi>Mr.</hi> Slatter, <hi>at</hi> Eaton.</item>
+               <item>
+                  <hi>Mr.</hi> Sheppard, <hi>at</hi> Lewes.</item>
+            </list>
+            <list>
+               <head>Alſo,</head>
+               <item>
+                  <hi>Mr.</hi> North <hi>in</hi> Dublin.</item>
+               <item>
+                  <hi>Mr.</hi> Norman <hi>in</hi> Dublin.</item>
+               <item>
+                  <hi>Mr.</hi> Dobſon <hi>in</hi> Dublin.</item>
+               <item>
+                  <hi>Mr.</hi> Campbel <hi>in</hi> Dublin.</item>
+               <item>
+                  <hi>Mr.</hi> Brown <hi>in</hi> Edinburgh.</item>
+               <item>
+                  <hi>Mr.</hi> Vaillems <hi>in</hi> Edinburgh.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
